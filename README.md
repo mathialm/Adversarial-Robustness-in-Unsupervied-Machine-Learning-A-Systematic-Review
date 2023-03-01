@@ -15,6 +15,8 @@ This file also contains the quality assessment for each round, validation round 
 ## ./Thematic Analysis
 The thematic analysis was conducted using ATLAS.ti (https://atlasti.com/)
 
+For storage purposes, the thematic analysis files are stored in the "Literature_Review.zip.00X" X=[1-6] files in ./"Thematic Analysis". Extract these together to get the proper files.
+
 The file "thematic_analysis.atlproj22" is the ATLAS.ti project file for the analysis, and should contain all codes, documents and such
 
 The file "thematic_analysis.qdpx" is the project file as a QDA-XML standard. Because of limitations between the functionality of ATLAS.ti and the standard, some aspects of the thematic analysis would only be accessible in ATLAS.ti, with the limitations of the export described in "thematic_analysis_cross_platform_problems.txt"
